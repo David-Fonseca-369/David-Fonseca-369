@@ -1,2 +1,2 @@
 - 👋 Hi, I’m David Fonseca
-- 👀 I’m interested interested in developing professionally as a developer.
+- 👀 I’m interested in developing professionally as a developer.
